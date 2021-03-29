@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 659d6f685dd7f7a4489cf96a303dc6f2, type: 3}
+  m_Name: Regular RoomLayout
+  m_EditorClassIdentifier: 
+  specialLocations:
+  - location: {x: 8, y: 7, z: 0}
+    spawnable: {fileID: 8623038881176955161, guid: 1dcbfd441f028324a97aa1e51877828f,
+      type: 3}
+  - location: {x: 3, y: 7, z: 0}
+    spawnable: {fileID: 7738451436967965302, guid: 1e26ab3d4044aac49ad5f87a0d848c4a,
+      type: 3}
+  - location: {x: 3, y: 5, z: 0}
+    spawnable: {fileID: 2465264698512453479, guid: d4072e1ed3539d241adcd7c1289fca50,
+      type: 3}
+  - location: {x: 3, y: 3, z: 0}
+    spawnable: {fileID: 2465264698512453479, guid: d4072e1ed3539d241adcd7c1289fca50,
+      type: 3}
+  - location: {x: 3, y: 4, z: 0}
+    spawnable: {fileID: 2465264698512453479, guid: d4072e1ed3539d241adcd7c1289fca50,
+      type: 3}
+  width: 1
+  height: 1
+  enemyCount: 2
